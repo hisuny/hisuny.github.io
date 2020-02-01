@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hisun.top/"/>
-  <updated>2020-02-01T07:17:05.530Z</updated>
+  <updated>2020-02-01T13:41:11.752Z</updated>
   <id>http://hisun.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://hisun.top/2020/02/01/hello-world/"/>
     <id>http://hisun.top/2020/02/01/hello-world/</id>
     <published>2020-02-01T07:17:05.530Z</published>
-    <updated>2020-02-01T07:17:05.530Z</updated>
+    <updated>2020-02-01T13:41:11.752Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,10 @@
     </summary>
     
     
+      <category term="test" scheme="http://hisun.top/categories/test/"/>
+    
+    
+      <category term="test" scheme="http://hisun.top/tags/test/"/>
     
   </entry>
   
