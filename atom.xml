@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hisun.top/"/>
-  <updated>2020-02-01T13:41:11.752Z</updated>
+  <updated>2020-02-16T06:13:17.532Z</updated>
   <id>http://hisun.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://hisun.top/2020/02/01/hello-world/"/>
-    <id>http://hisun.top/2020/02/01/hello-world/</id>
-    <published>2020-02-01T07:17:05.530Z</published>
-    <updated>2020-02-01T13:41:11.752Z</updated>
+    <title>What&#39;s Mark Said</title>
+    <link href="http://hisun.top/2020/02/16/hello-world/"/>
+    <id>http://hisun.top/2020/02/16/hello-world/</id>
+    <published>2020-02-16T06:10:34.000Z</published>
+    <updated>2020-02-16T06:13:17.532Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,13 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h2 id=&quot;Who-is-Mark&quot;&gt;&lt;a href=&quot;#Who-is-Mark&quot; class=&quot;headerlink&quot; title=&quot;Who is Mark ?&quot;&gt;&lt;/a&gt;Who is Mark
         
       
     
     </summary>
     
     
-      <category term="test" scheme="http://hisun.top/categories/test/"/>
-    
-    
-      <category term="test" scheme="http://hisun.top/tags/test/"/>
     
   </entry>
   
